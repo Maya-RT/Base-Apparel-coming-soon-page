@@ -29,7 +29,7 @@ Users should be able to:
 ### screenshot
 Screenshot of the desktop active error design:
 
-![Screenshot]C:\Users\Maya\Desktop\base-apparel-coming-soon-master\images\Capture d’écran 2023-09-11 192759.png
+![Screenshot](C:\Users\Maya\Desktop\base-apparel-coming-soon-master\images\Capture d’écran 2023-09-11 192759.png)
 
 ### Links
 
