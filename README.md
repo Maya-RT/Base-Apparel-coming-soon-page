@@ -29,7 +29,7 @@ Users should be able to:
 ### screenshot
 Screenshot of the desktop active error design:
 
-![Screenshot](C:\Users\Maya\Desktop\base-apparel-coming-soon-master\images\Capture d’écran 2023-09-11 192759.png)
+![Capture d’écran 2023-09-11 192759](https://github.com/Maya-RT/Base-Apparel-coming-soon-page/assets/117313080/ee0f970e-e2db-497f-aced-d2fa15b87d48)
 
 ### Links
 
